@@ -1,0 +1,21 @@
+{
+  "name": "noisegone-client",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --port 5173",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "stripe-js": "^1.63.0",
+    "i18next": "^23.10.0",
+    "react-i18next": "^13.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.1.5",
+    "vite": "^5.0.1"
+  }
+}
+
